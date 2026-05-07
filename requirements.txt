@@ -4,7 +4,7 @@ ultralytics==8.2.0
 torch==2.2.2
 torchvision==0.17.2
 torchaudio==2.2.2
-opencv-python-headless
+opencv-python-headless==4.9.0.80
 av
 numpy<2
 tornado==6.4
