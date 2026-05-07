@@ -7,3 +7,4 @@ torch
 torchvision
 numpy<2
 pillow
+tornado
